@@ -1,0 +1,7 @@
+[package]
+name = "md5_test"
+version = "0.1.0"
+authors = ["John Asper <agentx1994@gmail.com>"]
+edition = "2018"
+
+[dependencies]
